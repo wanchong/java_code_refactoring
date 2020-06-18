@@ -8,3 +8,6 @@ pip install wordninja
 
 
 pip install nltk
+
+
+For any problem of using the code, please report an issue on this repo, or contact with me : li.zhuo.786@s.kyushu-u.ac.jp
